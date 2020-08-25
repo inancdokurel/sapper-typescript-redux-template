@@ -1,9 +1,9 @@
 {
-	"name": "sapper-typescript-graphql-template",
+	"name": "sapper-typescript-redux-template",
 	"description": "A template that includes Svelte with Sapper, TypeScript preprocessing, and a GraphQL server through TypeGraphQL",
 	"keywords": [
 		"sapper",
-		"typegraphql",
+		"redux",
 		"typescript",
 		"eslint",
 		"svelte"
