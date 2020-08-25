@@ -23,7 +23,7 @@ If you're looking for something with much, much more bundled in, check out [my o
 ```sh
 npm install -g degit
 
-pnpx degit inancdokurel/sapper-typescript-redux-template#main ${project-name}
+pnpx degit inancdokurel/sapper-typescript-redux-template ${project-name}
 ```
 
 ## 📋 Copy
